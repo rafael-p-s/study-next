@@ -26,7 +26,17 @@ const config: Config = {
           800: "#FF1919",
           900: "#E60000",
         },
-        orange: "#FF7B01",
+        orange: {
+          100: "#FFE5B2", // ou a cor que desejar
+          200: "#FFCC80",
+          300: "#FFB74D",
+          400: "#FFA726",
+          500: "#FF9800", // esta será bg-orange-500
+          600: "#FB8C00",
+          700: "#F57C00",
+          800: "#EF6C00",
+          900: "#E65100",
+        },
         yellow: "#FFA901",
         green: "#4A9F53",
         gray: {
